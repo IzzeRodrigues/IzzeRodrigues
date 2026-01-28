@@ -1,4 +1,5 @@
 <h3>Hi 👋, I'm Izze, and Congrats, you've just found my personal profile</h3>
+<h4>Here you found some kinda of projects of courses, studies and recruitment processes</h4>
 
 - 👨‍💻 All of my professional projects are available at [https://github.com/isabelle-prates](https://github.com/isabelle-prates)
 - 📫 How to reach me **isap4350@gmail.com**
